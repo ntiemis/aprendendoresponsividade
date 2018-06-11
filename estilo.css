@@ -1,0 +1,37 @@
+section {
+    display: flex;
+}
+
+.maior {
+    width: 50%;
+}
+
+.media {
+    width: 30%;
+}
+
+.menor {
+    width: 20%;
+}
+
+.noticia > img {
+    width: 100%;
+}
+
+.anuncio > img {
+    width: 100%;
+}
+
+.textinho {
+    color: red;
+    font-size: 13px;
+    margin: 0;
+}
+
+section > .maior > .colunas {
+    display: flex;
+}
+
+.noticia {
+    padding: 20px;
+}
